@@ -38,7 +38,7 @@
 </ol>
 </div>
 <div style="text-align: center; margin-top: 20px;">
-  <a href="https://scholar.google.com/citations?user=jn9dXgQAAAAJ&hl=en" target="_blank" style="font-size: 14px; color: #0366d6;">
+  <a href="https://scholar.google.com/citations?user=aF_InCoAAAAJ&hl=en" target="_blank" style="font-size: 14px; color: #0366d6;">
     View all publications on Google Scholar →
   </a>
 </div>
