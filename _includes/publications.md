@@ -4,7 +4,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 15px;">
-      <div class="title"><a href="#">Multi-omic spatial profiling reveals the unique SARS-CoV-2 lung microenvironment and collagen VI as a predictive biomarker in severe COVID-19</a></div>
+      <div class="title"><a href="https://publications.ersnet.org/content/erj/66/3/2301699.abstract">Multi-omic spatial profiling reveals the unique SARS-CoV-2 lung microenvironment and collagen VI as a predictive biomarker in severe COVID-19</a></div>
       <div class="author">Fennell E, Taylor GS, Leahy CI, Ross AM, Reynolds G, Perry T, Youd E, Skidmore J, <strong>Darwish RRR</strong>, Hunter KJ, Willcox BE, Jermann P, Jahangir CA, Rahman A, Gallagher WM, Nikulina N, Ben Cheikh B, Braubach O, Mayer AT, Young LS, Grammatopoulos D, Faustini S, Richter A, Dowell AC, Venith T, Thein OS, Parekh D, Belchamber KBR, Thickett DR, Scott A, Attanoos R, Mundo L, Lazzi S, Leoncini L, Leopold G, Steven N, Sand JMB, Karsdal MA, Leeming DJ, Dojcinov S, Culhane A, Murray PG, Pugh MR</div>
       <div class="periodical"><em>European Respiratory Journal</em>, 2025</div>
     <div class="links">
@@ -16,7 +16,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 15px;">
-      <div class="title"><a href="#">Pancreatic β-cell remodeling in health and aging: Lessons from rodents and humans</a></div>
+      <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S1568163725001618">Pancreatic β-cell remodeling in health and aging: Lessons from rodents and humans</a></div>
       <div class="author"><strong>Darwish R</strong>, Alcibahy Y, Dhawan S, Butler AE, Moin ASM</div>
       <div class="periodical"><em>Ageing Research Reviews</em>, 2025</div>
     <div class="links">
@@ -27,7 +27,7 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 15px;">
-      <div class="title"><a href="#">Acute hypoglycemia attenuates serum matrix metalloproteinases and tissue inhibitors of metalloproteinases in type 2 diabetes</a></div>
+      <div class="title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S0168822725010915">Acute hypoglycemia attenuates serum matrix metalloproteinases and tissue inhibitors of metalloproteinases in type 2 diabetes</a></div>
       <div class="author">Moin ASM, <strong>Darwish R</strong>, Sathyapalan T, Atkin SL, Butler AE</div>
       <div class="periodical"><em>Diabetes Research and Clinical Practice</em>, 2025</div>
     <div class="links">
