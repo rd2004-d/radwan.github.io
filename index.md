@@ -4,14 +4,13 @@ layout: homepage
 
 ## About Me
 
-I’m a medical student at RCSI Bahrain with a strong interest in omics and translational biomedical science, particularly at the interface between molecular data, clinical phenotypes, and real-world disease mechanisms. I’m most drawn to research that forces you to interrogate not just *what* an association is, but *why* it exists and whether it should change how we think or act.  
-**I’m especially interested in work that treats methods as tools rather than answers, and interpretation as an active, iterative process rather than a final step.**
+I’m a medical student at RCSI Bahrain with a strong interest in omics and translational biomedical science. I’m most fascinated by research that forces you to interrogate not just *what* an association is, but *why* it exists and whether it should change how we think or act. 
 
-Alongside science, I have a long-standing interest in philosophy—especially epistemology, scientific reasoning, and the limits of inference in biomedical research. I tend to gravitate toward problems that don’t sit comfortably within a single method and require moving back and forth between data, biology, and interpretation.
+Alongside science, I’ve always been drawn to philosophy and enjoy thinking deeply about questions that challenge how we see the world and ourselves.
 
 ## Research
 
-- **2023–Present**: Researcher, Postgraduate Department, RCSI Bahrain. My work focuses on the molecular and genetic architecture of metabolic disease—particularly diabetes and polycystic ovary syndrome (PCOS)—integrating genetic instruments, biomarker data, and clinical phenotypes to interrogate causal pathways, endocrine–metabolic crosstalk, and disease heterogeneity.
+- **2023–Present**: Researcher, Postgraduate Department, RCSI Bahrain. My work focuses on the molecular and genetic basis of metabolic diseases, particularly diabetes and polycystic ovary syndrome (PCOS). I use genetic tools, biomarker measurements, and clinical data to understand how these conditions develop, and perhaps more interestingly why they vary between individuals.
 - **2024–Present**: Researcher with the Murray Group, Bernal Institute (University of Limerick), working on single-cell and spatial transcriptomics, quantitative pathology, and multi-omic analysis of disease tissue.
 - **2024**: Visiting medical student at the Bernal Institute, contributing to lymphoma-related projects using integrated wet-lab and computational approaches.
 - **Ongoing**: Independent and collaborative projects as I explore what best suits my interests.
