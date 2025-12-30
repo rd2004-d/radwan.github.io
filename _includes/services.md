@@ -5,8 +5,6 @@
   <br />
   <span style="margin-left: 43px;">MB, BCh, BAO (Medicine)</span>
   <br />
-  <span style="margin-left: 43px;">Year 1 GPA: 4.31/4.5 (1st/210) | Year 2 GPA: 4.34/4.5 (2nd/196) | Year 3 GPA: 4.21/4.5 (2nd/193)</span>
-  <br />
   <span style="margin-left: 43px;">2022-2027 (Expected)</span>
 </p>
 <p>
