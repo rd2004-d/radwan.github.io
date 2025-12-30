@@ -24,7 +24,6 @@
           <div class="title">
             <a href="https://www.sciencedirect.com/science/article/abs/pii/S1568163725001618" target="_blank">
               Pancreatic β-cell remodeling in health and aging: Lessons from rodents and humans
-            </a>
           </div>
           <div class="author"><strong>Darwish R</strong>, Alcibahy Y, Dhawan S, Butler AE, Moin ASM</div>
           <div class="periodical"><em>Ageing Research Reviews</em>, 2025</div>
@@ -39,7 +38,6 @@
           <div class="title">
             <a href="https://www.sciencedirect.com/science/article/abs/pii/S0168822725010915" target="_blank">
               Acute hypoglycemia attenuates serum matrix metalloproteinases and tissue inhibitors of metalloproteinases in type 2 diabetes
-            </a>
           </div>
           <div class="author">Moin ASM, <strong>Darwish R</strong>, Sathyapalan T, Atkin SL, Butler AE</div>
           <div class="periodical"><em>Diabetes Research and Clinical Practice</em>, 2025</div>
