@@ -21,8 +21,8 @@ instagram: https://www.instagram.com/researchbriefs?igsh=MXZ2Z3c4ajFlaTgybg%3D%3
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/final_phl.jpeg
-favicon: ./assets/img/pbl.png
-favicon_dark: ./assets/img/pbl.png
+favicon: ./assets/img/pbl.jpg
+favicon_dark: ./assets/img/pbl.jpg
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
