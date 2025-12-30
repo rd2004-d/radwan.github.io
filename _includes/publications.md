@@ -28,7 +28,7 @@
             </a>
           </div>
           <div class="author"><strong>Darwish R</strong>, Alcibahy Y, Dhawan S, Butler AE, Moin ASM</div>
-          <div class="periodical"><em>Ageing Research Reviews</em>, 2025;110:102815</div>
+          <div class="periodical"><em>Ageing Research Reviews</em>, 2025</div>
           <div class="links">
           </div>
         </div>
