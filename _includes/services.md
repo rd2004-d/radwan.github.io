@@ -1,6 +1,6 @@
 ## Education
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Royal_College_of_Surgeons_in_Ireland_Logo.svg/320px-Royal_College_of_Surgeons_in_Ireland_Logo.svg.png" alt="RCSI Icon" style="vertical-align: middle; width: 31px; margin-right: 5px;" />
+  <img src="https://commons.wikimedia.org/wiki/File:RCSI_Logo.jpg" alt="RCSI Icon" style="vertical-align: middle; width: 31px; margin-right: 5px;" />
   <span>Royal College of Surgeons in Ireland - Medical University of Bahrain</span>
   <br />
   <span style="margin-left: 40px;">MB, BCh, BAO (Medicine)</span>
