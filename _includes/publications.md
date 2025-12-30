@@ -18,7 +18,7 @@
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 15px;">
       <div class="title"><a href="#">Pancreatic β-cell remodeling in health and aging: Lessons from rodents and humans</a></div>
       <div class="author"><strong>Darwish R</strong>, Alcibahy Y, Dhawan S, Butler AE, Moin ASM</div>
-      <div class="periodical"><em>Ageing Research Reviews</em>, 2025;110:102815</div>
+      <div class="periodical"><em>Ageing Research Reviews</em>, 2025</div>
     <div class="links">
     </div>
   </div>
