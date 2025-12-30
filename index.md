@@ -29,7 +29,3 @@ Alongside science, I’ve always been drawn to philosophy and enjoy thinking dee
 - ✈️ I like traveling when time allows, most recently Doha.
 - 🏋️ Gym keeps me balanced.
 - 📚 Reading ranges from papers to philosophy to X threads that definitely didn’t need to be that long.
-
-<a href='https://clustrmaps.com/site/1bypn' title='Visit tracker'>
-<img src='//clustrmaps.com/map_v2.png?cl=9c9c9c&w=300&t=tt&d=ZE1Dicf7u6Te5xHdhiTQCK3YsUnqBCBznz3HMV85_WU&co=c4e6ff&ct=000000'/>
-</a>
