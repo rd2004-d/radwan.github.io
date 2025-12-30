@@ -14,7 +14,6 @@
           </div>
           <div class="periodical"><em>European Respiratory Journal</em>, 2025</div>
           <div class="links">
-            <span style="color: #2196F3; font-size: 12px;">Multi-omic spatial transcriptomics study of COVID-19 pathology</span>
           </div>
         </div>
       </div>
@@ -31,7 +30,6 @@
           <div class="author"><strong>Darwish R</strong>, Alcibahy Y, Dhawan S, Butler AE, Moin ASM</div>
           <div class="periodical"><em>Ageing Research Reviews</em>, 2025;110:102815</div>
           <div class="links">
-            <span style="color: #2196F3; font-size: 12px;">Comprehensive review of β-cell aging mechanisms</span>
           </div>
         </div>
       </div>
@@ -48,7 +46,6 @@
           <div class="author">Moin ASM, <strong>Darwish R</strong>, Sathyapalan T, Atkin SL, Butler AE</div>
           <div class="periodical"><em>Diabetes Research and Clinical Practice</em>, 2025</div>
           <div class="links">
-            <span style="color: #2196F3; font-size: 12px;">Clinical study on hypoglycemia and vascular biomarkers</span>
           </div>
         </div>
       </div>
