@@ -4,17 +4,17 @@ layout: homepage
 
 ## About Me
 
-I am a first-year PhD student at Harvard studying [Bioinformatics](https://dbmi.hms.harvard.edu/education/phd-program/big-phd-track). My interests span across artificial intelligence for scientific research, with a focus on drug discovery and protein design.
+I’m a medical student at RCSI Bahrain with a strong interest in omics and translational biomedical science, particularly at the interface between molecular data, clinical phenotypes, and real-world disease mechanisms. I’m most drawn to research that forces you to interrogate not just *what* an association is, but *why* it exists and whether it should change how we think or act.  
+**I’m especially interested in work that treats methods as tools rather than answers, and interpretation as an active, iterative process rather than a final step.**
 
-Currently, I'm PhDing in the [Church Lab](https://churchlab.hms.harvard.edu).
+Alongside science, I have a long-standing interest in philosophy—especially epistemology, scientific reasoning, and the limits of inference in biomedical research. I tend to gravitate toward problems that don’t sit comfortably within a single method and require moving back and forth between data, biology, and interpretation.
 
 ## Research
 
-- **2024**: PhD student in the [Church Lab](https://churchlab.hms.harvard.edu) working on tbd.
-- **2024**: Rotation student in the [Marks Lab](https://www.deboramarkslab.com), focusing on functional protein design.
-- **2023**: Worked on aging therapies as a rotation student in the [Church Lab](https://churchlab.hms.harvard.edu).
-- **2021-2023**: Investigated the spatial architecture of tumors in the [Bose Lab](https://cumming.ucalgary.ca/departments/bmb/profiles/dr-pinaki-bose).
-- **2019-2023**: Discovered targets for regenerative medicine by studying reindeers 🦌 in the [Biernaskie Lab](https://vet.ucalgary.ca/labs/biernaskie/home?utm_source=biernaskie&utm_medium=redirect&utm_campaign=redirect).
+- **2023–Present**: Researcher, Postgraduate Department, RCSI Bahrain. My work focuses on the molecular and genetic architecture of metabolic disease—particularly diabetes and polycystic ovary syndrome (PCOS)—integrating genetic instruments, biomarker data, and clinical phenotypes to interrogate causal pathways, endocrine–metabolic crosstalk, and disease heterogeneity.
+- **2024–Present**: Researcher with the Murray Group, Bernal Institute (University of Limerick), working on single-cell and spatial transcriptomics, quantitative pathology, and multi-omic analysis of disease tissue.
+- **2024**: Visiting medical student at the Bernal Institute, contributing to lymphoma-related projects using integrated wet-lab and computational approaches.
+- **Ongoing**: Independent and collaborative projects as I explore what best suits my interests.
 
 {% include_relative _includes/publications.md %}
 
@@ -22,14 +22,15 @@ Currently, I'm PhDing in the [Church Lab](https://churchlab.hms.harvard.edu).
 
 ## Work
 
-- **2022**: Product Manager intern at [Telus Health](https://www.telus.com/en/business/medium-large/enterprise-solutions/internet-of-things), focusing on smart healthcare solutions.
-- **2021-2022**: Intern and bioinformatics consultant at [Phenomic AI](https://phenomic.ai), finding cancer drug targets using multi-omics.
+- **Student Council Research Officer**: Building research infrastructure for students, including mentorship pathways, journal clubs, and method-focused teaching with an emphasis on rigor and reproducibility.
+- **Diabetes Mobile Unit Volunteer**: Supporting community-based diabetes education and interdisciplinary outreach initiatives.
 
 ## More About Me
 
-- 🏋️‍♂️ Gym (and sports when I'm not injured)
-- 🌱 Plants (currently growing a banana tree)
-- 📚 Reading (long long twitter threads)
- 
- 
-<a href='https://clustrmaps.com/site/1bypn'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=9c9c9c&w=300&t=tt&d=ZE1Dicf7u6Te5xHdhiTQCK3YsUnqBCBznz3HMV85_WU&co=c4e6ff&ct=000000'/></a>
+- ✈️ I like traveling when time allows, most recently Doha.
+- 🏋️ Gym keeps me balanced.
+- 📚 Reading ranges from papers to philosophy to X threads that definitely didn’t need to be that long.
+
+<a href='https://clustrmaps.com/site/1bypn' title='Visit tracker'>
+<img src='//clustrmaps.com/map_v2.png?cl=9c9c9c&w=300&t=tt&d=ZE1Dicf7u6Te5xHdhiTQCK3YsUnqBCBznz3HMV85_WU&co=c4e6ff&ct=000000'/>
+</a>
