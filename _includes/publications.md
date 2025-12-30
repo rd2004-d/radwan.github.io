@@ -18,7 +18,6 @@
         </div>
       </div>
     </li>
-    <br>
     <li>
       <div class="pub-row">
         <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -34,7 +33,6 @@
         </div>
       </div>
     </li>
-    <br>
     <li>
       <div class="pub-row">
         <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -50,7 +48,6 @@
         </div>
       </div>
     </li>
-    <br>
   </ol>
 </div>
 <div style="text-align: center; margin-top: 20px;">
