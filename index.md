@@ -19,7 +19,7 @@ Alongside science, I’ve always been drawn to philosophy and enjoy thinking dee
 
 {% include_relative _includes/services.md %}
 
-## Work
+## Extra-Curricular
 
 - **Student Council Research Officer**: Building research infrastructure for students, including mentorship pathways, journal clubs, and method-focused teaching with an emphasis on rigor and reproducibility.
 - **Diabetes Mobile Unit Volunteer**: Supporting community-based diabetes education and interdisciplinary outreach initiatives.
