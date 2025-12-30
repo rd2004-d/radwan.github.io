@@ -1,25 +1,25 @@
 # Basic Information 
-title: Rohit Arora
-position: PhD Student
-affiliation: Harvard Bioinformatics
-email: rohitarora (at) g.harvard.edu
+title: Radwan Darwish
+position: Medical Student/Researcher
+affiliation: RCSI Bahrain/University of Limerick
+email: 22200493 (at) rcsi.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Rohit Arora Harvard Bioinformatics
-description: Rohit Arora is a Harvard PhD Student interested in Machine Learning for Science, Protien Design, and Drug Discovery.
-canonical: https://rohitarorayyc.github.io/
+keywords: Radwan Darwish Medical Student RCSI
+description: Radwan Darwish is a medical student at RCSI Bahrain, interested in omics, translational biomedical science, and philosophy—usually in that order.
+canonical: https://rd2004-d.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=jn9dXgQAAAAJ&hl=en
-github_link: https://github.com/rohitarorayyc
-linkedin: https://www.linkedin.com/in/rohit-arora21/
-twitter: https://twitter.com/rohitarorayyc
+google_scholar: https://scholar.google.com/citations?user=aF_InCoAAAAJ&hl=en
+github_link: https://github.com/rd2004-d
+linkedin: https://www.linkedin.com/in/radwandarwish/
+twitter: https://x.com/DarwishBriefs
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/RA_portrait.jpg
+avatar: ./assets/img/final_phl.jpeg
 favicon: ./assets/img/pb.png
 favicon_dark: ./assets/img/pb.png
 
