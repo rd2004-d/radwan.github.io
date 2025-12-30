@@ -28,10 +28,10 @@
 <li>
 <div class="pub-row">
   <div class="col-sm-12" style="position: relative;padding-right: 15px;padding-left: 15px;">
+      <div class="title"><a href="#">Acute hypoglycemia attenuates serum matrix metalloproteinases and tissue inhibitors of metalloproteinases in type 2 diabetes</a></div>
       <div class="author">Moin ASM, <strong>Darwish R</strong>, Sathyapalan T, Atkin SL, Butler AE</div>
       <div class="periodical"><em>Diabetes Research and Clinical Practice</em>, 2025</div>
     <div class="links">
-      <span style="color: #2196F3; font-size: 12px;">Clinical study on hypoglycemia and vascular biomarkers</span>
     </div>
   </div>
 </div>
