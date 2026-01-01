@@ -10,8 +10,8 @@ Alongside science, I’ve always been drawn to philosophy and enjoy thinking dee
 
 ## Research
 
-- **2023–Present**: Researcher, Postgraduate Department, RCSI Bahrain. My work focuses on the molecular and genetic basis of metabolic diseases, particularly diabetes and polycystic ovary syndrome (PCOS). I use genetic tools, biomarker measurements, and clinical data to understand how these conditions develop, and perhaps more interestingly why they vary between individuals.
-- **2024–Present**: Researcher with the Murray Group, Bernal Institute (University of Limerick), working on single-cell and spatial transcriptomics, quantitative pathology, and multi-omic analysis of disease tissue.
+- **2023–Present**: Researcher @ Postgraduate Department, RCSI Bahrain, focusing on the molecular and genetic basis of metabolic diseases, particularly diabetes and polycystic ovary syndrome (PCOS). I use genetic tools, biomarker measurements, and clinical data to understand how these conditions develop, and perhaps more interestingly why they vary between individuals.
+- **2024–Present**: Researcher @ the Murray Group, Bernal Institute (University of Limerick), working on single-cell and spatial transcriptomics, quantitative pathology, and multi-omic analysis of disease tissue.
 - **2024**: Visiting medical student at the Bernal Institute, contributing to lymphoma-related projects using integrated wet-lab and computational approaches.
 - **Ongoing**: Independent and collaborative projects as I explore what best suits my interests.
 
