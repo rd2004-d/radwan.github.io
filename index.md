@@ -13,7 +13,7 @@ Alongside science, I’ve always been drawn to philosophy and enjoy thinking dee
 - **2023–Present**: Researcher @ Postgraduate Department, RCSI Bahrain, focusing on the molecular and genetic basis of metabolic diseases, particularly diabetes and polycystic ovary syndrome (PCOS). I use genetic tools, biomarker measurements, and clinical data to understand how these conditions develop, and perhaps more interestingly why they vary between individuals.
 - **2024–Present**: Researcher @ the Murray Group, Bernal Institute (University of Limerick), working on single-cell and spatial transcriptomics, quantitative pathology, and multi-omic analysis of disease tissue.
 - **2024**: Visiting medical student at the Bernal Institute, contributing to lymphoma-related projects using integrated wet-lab and computational approaches.
-- **2026**: Contingent researcher @ University of Birmingham, working on analyses of high-throughput spatial transcriptomic and proteomic datasets using BlueBEAR, integrating multi-omics approaches to characterize tissue architecture, cellular heterogeneity, and cell–cell interactions in complex disease systems, with a current focus on nasopharyngeal carcinoma.
+- **2026-Present**: Contingent researcher @ University of Birmingham, working on analyses of high-throughput spatial transcriptomic and proteomic datasets using BlueBEAR, integrating multi-omics approaches to characterize tissue architecture, cellular heterogeneity, and cell–cell interactions in complex disease systems, with a current focus on nasopharyngeal carcinoma.
 - **Ongoing**: Independent and collaborative projects as I explore what best suits my interests.
 
 {% include_relative _includes/publications.md %}
